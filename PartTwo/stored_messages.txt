@@ -1,0 +1,12 @@
+--- STORED MESSAGE ---
+ID: 5845480624, Hash: 58:1:HIWITH, Recipient: +27671234567
+Text: hi what are you doing and what can i help u with
+
+--- STORED MESSAGE ---
+ID: 8439380106, Hash: , Recipient: +27123456778
+Text: 
+
+--- STORED MESSAGE ---
+ID: 7843176002, Hash: 78:1:HIDOING, Recipient: +27671234567
+Text: hi how are u and what are you doing
+
